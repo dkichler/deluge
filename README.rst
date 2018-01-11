@@ -10,7 +10,7 @@ Authors:
     Andrew Resch
     Damien Churchill
 
-For contributors and past developers see: 
+For contributors and past developers see:
     AUTHORS
 
 ==========================
@@ -66,3 +66,6 @@ I can't connect to the daemon from another machine:
 .. |docs| image:: https://readthedocs.org/projects/deluge/badge/?version=develop
     :target: https://readthedocs.org/projects/deluge/?badge=develop
     :alt: Documentation Status
+
+
+    Some crap
